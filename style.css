@@ -9,7 +9,7 @@
     overflow-x: hidden;
 }
 .game{
-    background-image: url(jc.gif);
+    background-color: aqua;
     width: var(--boardWidth);
     height: 500px;
     margin:auto;
