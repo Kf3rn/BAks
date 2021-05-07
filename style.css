@@ -9,7 +9,7 @@
     overflow-x: hidden;
 }
 .game{
-    background-color: aqua;
+    background-color: #C0C0C0;
     width: var(--boardWidth);
     height: 500px;
     margin:auto;
